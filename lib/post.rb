@@ -2,6 +2,6 @@ class Post;
   attr_accessor :title
  end
  
- def intialize(title)
+ def intialize()
    
  end 
