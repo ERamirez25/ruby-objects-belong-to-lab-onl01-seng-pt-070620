@@ -4,4 +4,4 @@ class Artist
     @name = name 
   end 
 end 
-artist.
+artist.name = 
