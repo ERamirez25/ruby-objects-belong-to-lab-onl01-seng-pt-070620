@@ -5,3 +5,4 @@ class Artist
   end 
   song.artist.name 
 end 
+end 
