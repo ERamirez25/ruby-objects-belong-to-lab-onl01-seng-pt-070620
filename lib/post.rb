@@ -3,5 +3,5 @@ class Post;
  end
  
  def intialize(title)
-   post.author.name 
+   
  end 
